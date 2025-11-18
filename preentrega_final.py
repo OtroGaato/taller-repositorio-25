@@ -1,5 +1,6 @@
 import products
-
+prueba = "prueba"
+print(prueba)
 producto = []
 eleccion = 0
 def menu():
